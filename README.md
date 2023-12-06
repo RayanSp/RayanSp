@@ -1,16 +1,16 @@
-### Hi there 👋
+# Rayan 
 
-<!--
-**RayanSp/RayanSp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi there 👋
 
-Here are some ideas to get you started:
+My name is Rayan. I am an 18 year old frontend developer living in Amsterdam. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+[![Rayan's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=RayanSp&hide=commits&show_icons=true&theme=tokyonight)](https://github.com/RayanSp/github-readme-stats)
+
+
+## Skills 
+
+[![My Skills](https://skillicons.dev/icons?i=html,js,svelte,figma,lua&perline=3)](https://skillicons.dev)
+
+
+
