@@ -5,7 +5,7 @@ Hi there 👋
 My name is Rayan. I am an 18 year old frontend developer living in Amsterdam. 
 
 
-[![Rayan's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=RayanSp&hide=commits&show_icons=true&theme=tokyonight)](https://github.com/RayanSp/github-readme-stats)
+[![Rayan's GitHub stats (excluding forked repository's](https://github-readme-stats.vercel.app/api?username=RayanSp&hide=commits&show_icons=true&theme=tokyonight)](https://github.com/RayanSp/github-readme-stats)
 
 
 ## Skills 
