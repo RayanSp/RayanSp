@@ -13,7 +13,7 @@ Does not include forked repositories
 
 ## Skills 
 
-[![My Skills](https://skillicons.dev/icons?i=html,js,svelte,figma,lua&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,js,svelte,figma,lua&perline=5)](https://skillicons.dev)
 
 
 - 💻 Frontend Developer
