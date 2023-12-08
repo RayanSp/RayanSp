@@ -13,7 +13,7 @@ My name is Rayan. I am an 18 year old frontend developer living in Amsterdam.
 
 ## Skills 
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,svelte,figma,lua&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,svelte,figma,lua&perline=6)](https://skillicons.dev)
 
 
 - 💻 Frontend Developer
