@@ -8,7 +8,7 @@ My name is Rayan. I am an 19 year old frontend developer living in Amsterdam.
 
 > Does not include forked repositories
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=RayanSp&theme=tokyonight\&include_all_commits=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=RayanSp&theme=gotham\&include_all_commits=true)
 
 
 ## Skills 
