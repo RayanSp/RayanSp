@@ -17,7 +17,8 @@ My name is Rayan. I am an 19 year old frontend developer living in Amsterdam.
 
 
 ## Currently Learning
-- Sveltekit 
+- ThreeJS
+- GSAP
 - Web design in figma
 
 
