@@ -2,7 +2,7 @@
 
 Hi there 👋
 
-My name is Rayan. I am an 19 year old frontend developer living in Amsterdam. 
+My name is Rayan. I am a 20 year old frontend developer living in Amsterdam. 
 
 ## Stats 
 
